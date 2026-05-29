@@ -86,7 +86,7 @@ Pain Points: Doesn't find time for therapy; overwhelmed by work-related stress.
 
 Motivation: Improve emotional resilience and focus for professional success.
 
-# Scenario 2: Designing a Smart Waste Management App for Urban
+## Scenario 2: Designing a Smart Waste Management App for Urban
 1.Identifying and Writing Problem Statements User Pain Points Identified:
 
 ● Residents don't know when garbage collection happens in their area.
@@ -151,11 +151,11 @@ Pain Points: Manual complaint logs, lack of timely updates, unclear task allocat
 
 Motivation: Improve work efficiency and gain recognition for reliable service.
 ## Output:
-# Scenario 1: Designing a Mental Wellness Companion App
+## Scenario 1: Designing a Mental Wellness Companion App
 
 <img width="1857" height="868" alt="516054353-ae01b512-ac81-4f30-8fa5-a294ab6ae4d2" src="https://github.com/user-attachments/assets/344e571e-1fed-46ba-a39e-2a17d020827b" />
 
-# Scenario 2: Designing a Smart Waste Management App for Urban
+## Scenario 2: Designing a Smart Waste Management App for Urban
 
 <img width="1686" height="880" alt="516054380-f3a7fed9-a3da-4448-8539-41f64289dec2" src="https://github.com/user-attachments/assets/6acfe6fd-ad42-47f0-9534-002bce6308e0" />
 
